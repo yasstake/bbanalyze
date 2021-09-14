@@ -1,0 +1,6 @@
+
+
+download:
+	(cd DATA; wget https://public.bybit.com/trading/BTCUSD/BTCUSD2021-09-08.csv.gz)
+	
+	
